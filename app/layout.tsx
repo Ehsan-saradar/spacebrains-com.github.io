@@ -18,14 +18,14 @@ export const metadata: Metadata = {
     description: "EXPANDING HUMAN POTENTIAL",
     url: 'https://spacebrains.com',
     type: "website",
-    images: 'https://spacebrains.com/img/space-thumbnail.png',
+    images: 'https://spacebrains-com-github-io.vercel.app/img/space-thumbnail.png',
   },
   twitter: {
     site: "spacebrains.com",
     card: "summary_large_image",
     title: "THE DAWN OF SPACEBRAINS",
     description: "EXPANDING HUMAN POTENTIAL",
-    images: "https://spacebrains.com/img/space-thumbnail.png"
+    images: "https://spacebrains-com-github-io.vercel.app/img/space-thumbnail.png"
   },
   icons: {
     icon: [
